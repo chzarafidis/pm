@@ -10,4 +10,7 @@ https://docs.nettigo.pl/en/nam/033/nam-bme280-033
 Οδηγίες συναρμολόγησης του kit:
 https://docs.nettigo.pl/en/nam/033/nam-033-std-fa
 
+Ρυθμίση της θέσης του αισθητήρα λεπτής σκόνης, και άλλων παραμέτρων:
+https://devices.sensor.community/
+
 Εάν ο μικροελεγκτής ESP8266 δεν μπορεί να συνδεθεί στο καθορισμένο WiFi μετά από 20 δευτερόλεπτα, ενεργοποιείται ένα A.P. με default password: **nettigo.pl** και SSID: (**NAM-XXXXXX** το XXXXXX είναι το ChipID του ESP8266). Μετά τη σύνδεση σε αυτό το σημείο πρόσβασης. Διεύθυνση παραμετροποίησης:  http://192.168.4.1/
