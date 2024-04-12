@@ -20,7 +20,7 @@ https://devices.sensor.community/
 
 ## Αισθητήρας θερμοκρασίας υγρασίας και πίεσης  
 Στη σελίδα https://devices.sensor.community/sensors επιλέγουμε ρυθμίσεις στον αισθητήρα που θέλουμε να παραμετροποίσουμε (ρυθμίσεις του κόμβου), στη διαμόρφωση υλικού επιλέγουμε σωστό τύπο του αισθητήρα που είναι ο **ΒΜΕ280**  
-![Ρύθμιση στο https://devices.sensor.community/sensors](https://github.com/chzarafidis/pm/blob/main/ΒΜΕ280.png) 
+!(https://github.com/chzarafidis/pm/blob/main/BME280.png) 
 
 ## Watchdog Settings  
 Η διεύθυνση παραμετροποίησης (με σύνδεση στο ίδιο τοπικό δίκτυο) είναι: http://**NAM-XXXXXX**.local/config  
